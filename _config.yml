@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "ko"
+title                    : "Jeahyun Blog"
 title_separator          : "-"
-name                     : "Kim jea hyun"
+name                     : "김재현"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -39,7 +39,7 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -66,8 +66,8 @@ author:
   name             : "Your Name"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Korea"
-  email            :
+  location         : "Korea, Seongnam"
+  email            : "bee0005@naver.com"
   uri              :
   bitbucket        :
   codepen          :
