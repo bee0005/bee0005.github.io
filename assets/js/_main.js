@@ -3,6 +3,13 @@
    ========================================================================== */
 
 $(document).ready(function(){
+  
+  //calculate date with yein
+  var start_date = new Date("4/13/2012");
+  var today_date = new Date();
+  var timeDiff = Math.abs(today_date.getTime() - start_date.getTime());
+  var yein_date = Math.ceil(timeDiff / (1000 * 3600 * 24)); 
+  $("#yein_date").text(yein_date + "일 (2012.04.13 ~ ");
 
   // FitVids init
   $("#main").fitVids();

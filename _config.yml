@@ -5,9 +5,30 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# posts
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      
 # Site Settings
 locale                   : "ko"
-title                    : "Jeahyun Blog"
+title                    : "Jeahyun's Blog"
 title_separator          : "-"
 name                     : "김재현"
 description              : "An amazing website."
