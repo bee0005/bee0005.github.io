@@ -45,7 +45,7 @@ defaults:
 locale                   : "ko"
 title                    : "Jeahyun's Blog"
 title_separator          : "-"
-name                     : "김재현"
+name                     : "Jeahyun Kim"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ comments:
   provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
+    appid                : 1167237263326550
     num_posts            : 3 # 5 (default)
     colorscheme          :  # "light" (default), "dark"
   disqus:
