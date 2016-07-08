@@ -2,10 +2,12 @@
 main:
   - title: "About"
     url: /about
-  - title: "사랑 이야기"
-    url: /date_post
-  - title: "TEST"
-    url: /splash-page
+  - title: "Blog"
+    url: /categories
+  - title: "Portfolio"
+    url: /portfolio
     
-  - title: "Help"
+  - title: "TEST PAGE"
+    url: /splash-page
+  - title: "Help PAGE"
     url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/

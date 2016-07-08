@@ -1,81 +1,83 @@
 ---
 permalink: /about
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Jeahyun's Blog About page"
 
-layouts_gallery:
-  - url: jea.jpg
-    image_path: jea.jpg
-    alt: "jeahyun"
-  - url:  main.jpg
-    image_path: main.jpg
-    alt: "main"
-  - url: ye.jpg
-    image_path: ye.jpg
-    alt: "yein"
+first_gallery:
+  - url: /page/about/jeahyun.jpg
+    image_path: /page/about/jeahyun.jpg
+    alt: "재현"
+  - url: /page/about/yein.jpg
+    image_path: /page/about/yein.jpg
+    alt: "예인"
 
-modified: 2016-04-18T16:39:37-04:00
+date_gallery:
+  - url: /page/about/date.jpg
+    image_path: /page/about/date.jpg
+    alt: "데이트"
+  - url: /page/about/food.jpg
+    image_path: /page/about/food.jpg
+    alt: "음식"
+  - url: /page/about/paju.jpg
+    image_path: /page/about/paju.jpg
+    alt: "파주"
+
+modified: 2016-07-07T18:00:00-04:00
 ---
 
 {% include base_path %}
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
-The theme includes responsive layouts (`single`, `archive`, and `splash` pages) that look great on mobile and desktop browsers.
+## 안녕하세요
+처음으로 블로그를 운영해 보았습니다 :mouse:.
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+두서 없이 제 생각과 감정들을 작성하면서 블로그를 하나씩 채워나가려고 합니다.
 
-[Install the Theme]({{ base_path }}/docs/quick-start-guide/){: .btn .btn--success .btn--large}
+직접 웹페이지를 운영하여 블로그를 만들어서, 저만의 블로그를 만들고 싶었습니다.
 
-## Notable Features
 
-- Compatible with Jekyll 3.x and GitHub Pages
-- Several layout options (single, archive, splash pages)
-- SEO optimized with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional header images, sidebars, table of contents, galleries, related posts, breadcrumb links, and more.
-- Optional comments ([Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, and custom)
-- Optional analytics ([Google Analytics](https://www.google.com/analytics/) and custom)
 
-## Demo Pages
+## 연애
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tags. |
+### **어느덧 4년이란 시간동안 연애를 해온, 동갑내기** `Yein` **이와의 연애 이야기 :heart:**
 
-For even more demo pages check the [posts archive][year-archive].
+{% include gallery id="first_gallery" caption="Naksan Park with Yein `♡`"%}
 
-[sample-collection]: {{ base_path }}/recipes/chocolate-chip-cookies/
-[categories-archive]: {{ base_path }}/categories/
-[tags-archive]: {{ base_path }}/tags/
-[year-archive]: {{ base_path }}/year-archive/
+2012년 4월의 만남을 시작으로 5년차 커플입니다.
 
----
 
-## Credits
+고무신 연애 이야기로 시작한 `예인`이의 블로그는 어느 덧 3년동안 운영하였고, 
 
-### Icons + Demo Images:
+저도 블로그를 통해 연애 이야기들 작성하고 기록하여 추억하고 간직하고 싶어 시작하였습니다.
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-- [Unsplash](https://unsplash.com/)
+둘이 같이 만나 도서관에서 공부하며 소소한 데이트를 즐기는 취준생 커플의 연애 이야기
 
-### Other:
+[Yein's Naver Blog](http://blog.naver.com/yenihu/){: .btn .btn--success .btn--small}
 
-- [Jekyll](http://jekyllrb.com/)
-- [jQuery](http://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](http://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Stickyfill](https://github.com/wilddeer/stickyfill)
 
----
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+## 취업
+
+
+**컴퓨터를 전공하고 취업을 준비중인, 취준생 이야기 :cry:**
+
+취직을 준비중인 예인이와 나.
+
+컴퓨터를 전공한 저와, 화학공학을 전공한 예인이의 취직 이야기
+
+서로 열심히 노력하는 만큼 좋은 결과를 얻어 이 기간이 좋은 추억으로 남았으면 좋겠습니다.
+
+화이팅!!! :couple:
+
+
+## 일상
+
+**데이트하고 돌아다니며 구경한 이야기와 먹는 이야기 :poultry_leg:,**
+
+
+{% include gallery id="date_gallery" caption="Daily Stroy"%}
+
+
+마지막으로 일상을 끄적일수 있는 저 만의 공간입니다.
+
+맛있게 먹었던 음식들의 사진들과 좋았던 장소를도 기록하고 남기고 싶습니다.
+
