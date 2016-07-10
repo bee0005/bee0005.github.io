@@ -4,7 +4,7 @@ excerpt: "2016년 7월 7일 블로그를 시작하다"
 header:
   teaser: /page/about/jeahyun.jpg
 categories:
-  - Daily
+  - 2. Daily
 tags:
   - 시작
   - About
