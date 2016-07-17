@@ -1,6 +1,6 @@
 ---
 title: "강남 카카오 프렌트샵 럭키박스"
-excerpt: "예인이와 강남역 카카오 프렌트샵 오픈 이벤트 럭키박스 참여하기!"
+excerpt: "[7월 9~10일] 예인이와 강남역 카카오 프렌트샵 오픈 이벤트 럭키박스 참여하기!"
 header:
   teaser: /posts/7-10-kakao/kakao5.jpg
 categories:
