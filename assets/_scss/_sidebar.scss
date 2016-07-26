@@ -42,14 +42,6 @@
 
   img {
     width: 100%;
-    @include breakpoint($small) {
-      opacity: 0.1;
-      width: 30%;
-    }
-    @include breakpoint($large) {
-      opacity: 1;
-      width: 100%;
-    }
   }
 }
 
