@@ -24,6 +24,7 @@
     padding-right: 0;
   }
 
+
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
@@ -41,6 +42,14 @@
 
   img {
     width: 100%;
+    @include breakpoint($small) {
+      opacity: 0.1;
+      width: 30%;
+    }
+    @include breakpoint($large) {
+      opacity: 1;
+      width: 100%;
+    }
   }
 }
 
