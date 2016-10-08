@@ -103,7 +103,7 @@ tags:
       cout << b2.test(i);       //0,0,0,1,0,1,1,0,0,0
 ```
 
->bitset은 2진수와 비슷해서 &(and), |(or), ^(xor), ~(not), >>/<<(shift)가 가능하다.
+>bitset은 2진수와 비슷해서 &(and,or), ^(xor), ~(not), >>/<<(shift)가 가능하다.
 
 ```c++
   #include <bitset>
@@ -158,8 +158,5 @@ tags:
   - **none()** : 모든 비트가 0인지 아닌지 출력한다. 1개라도 존재하면 False
   - **count()** : 비트가 1인 것의 갯수를 출력한다.
 
-
-```
-    연습문제(Baekjoon)
-      12813_이진수 연산
-```
+#### 연습문제(Baekjoon)
+ - [12813-이진수 연산](https://github.com/bee0005/TIL/blob/master/Algorithm/BaekJoon/12813_%EC%9D%B4%EC%A7%84%EC%88%98%20%EC%97%B0%EC%82%B0.cpp)

@@ -59,10 +59,8 @@ tags:
  - **size()** : stack의 원소의 개수를 리턴한다.
  - **empty()** : stack가 비어있는지 확인한다. 비어 있지 않으면 0을 출력한다.
 
-```
-   연습문제(Baekjoon)
-     10828_스택
-```
+#### 연습문제(Baekjoon)
+ - [10828-스택](https://github.com/bee0005/TIL/blob/master/Algorithm/BaekJoon/10828_%EC%8A%A4%ED%83%9D.cpp)
 
 ### `Queue`
   - 선형 **Container Adapter** (Stack, Queue, Priority Queue, Bitset) 중 하나이다.
@@ -117,8 +115,6 @@ tags:
   - **empty()** : queue가 비어있는지 확인한다. 비어 있지 않으면 0을 출력한다.
 
 
-```
-    연습문제(Baekjoon)
-      10845_큐
-      1158_조세퍼스 문제
-```
+#### 연습문제(Baekjoon)
+ - [10845-큐](https://github.com/bee0005/TIL/blob/master/Algorithm/BaekJoon/10845_%ED%81%90.cpp)
+ - [1158-조세퍼스 문제](https://github.com/bee0005/TIL/blob/master/Algorithm/BaekJoon/1158_%EC%A1%B0%EC%84%B8%ED%8D%BC%EC%8A%A4%20%EB%AC%B8%EC%A0%9C.cpp)
