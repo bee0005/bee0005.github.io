@@ -56,7 +56,7 @@ title                    : "Jeahyun's Blog"
 title_separator          : "-"
 name                     : "Jeahyun Kim"
 description              : # "An amazing website."
-url                      : # "https://bee0005.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  "https://jeahyunkim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -110,7 +110,7 @@ google_ad_slot           :
 author:
   name             : "김재현"
   avatar           : "main.jpg"
-  bio              : "연애, 공부, 일상 블로그"
+  bio              : "공부, 일상 블로그"
   location         : "Korea, Seongnam"
   email            : "bee0005@naver.com"
   uri              :
